@@ -1,0 +1,72 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Poppins", sans-serif;
+}
+.logo {
+  font-family: "Nunito", sans-serif;
+  font-family: "PT Sans", sans-serif;
+  font-size: 40px;
+}
+.hadder {
+  padding: 30px 30px 30px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.menuiteam {
+  text-decoration: none;
+  color: black;
+  font-family: "Nunito", sans-serif;
+  font-family: "PT Sans", sans-serif;
+  margin-right: 30px;
+}
+.buttom2 {
+  color: black;
+  text-decoration: none;
+  padding: 16px 16px;
+  font-family: "Nunito", sans-serif;
+  font-family: "PT Sans", sans-serif;
+  box-shadow: 16px 11px 54px -3px rgba(0, 0, 0, 0.75);
+  border-radius: 10px;
+  background: rgb(236, 232, 232);
+  background: linear-gradient(
+    90deg,
+    rgba(236, 232, 232, 1) 0%,
+    rgba(121, 107, 107, 1) 0%,
+    rgba(236, 232, 232, 1) 87%
+  );
+}
+
+.menuiteams {
+  margin-right: 150px;
+  padding: 16px 16px;
+  background: rgb(236, 232, 232);
+  background: linear-gradient(
+    90deg,
+    rgba(236, 232, 232, 1) 0%,
+    rgba(121, 107, 107, 1) 0%,
+    rgba(236, 232, 232, 1) 87%
+  );
+  border-radius: 10px;
+  box-shadow: 16px 11px 54px -3px rgba(0, 0, 0, 0.75);
+}
+.picture {
+  height: 150p;
+  width: 120px;
+  border-radius: 120px;
+  border: 1px solid black;
+  margin-right: 120px;
+}
+.menuiteams:hover {
+  background: rgb(236, 232, 232);
+  background: linear-gradient(
+    90deg,
+    rgba(236, 232, 232, 1) 0%,
+    rgba(236, 232, 232, 1) 29%,
+    rgba(121, 107, 107, 1) 73%
+  );
+}
+.wrapper {
+  background-image: url(newspaper.jpg);
+}
